@@ -88,7 +88,8 @@ nav a:hover {
 } 
 
 .center span{
-    color:white
+    color:white;
+    top:10%;
 }
 .box{
      height: 300vh;
