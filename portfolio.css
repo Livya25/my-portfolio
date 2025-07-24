@@ -453,6 +453,10 @@ nav a:hover {
   color: #e4dee2;
   line-height: 1.6;
 }
+.project-box ul li{
+  padding-left: 20px;
+  color:white;
+}
 .timeline-section {
   padding: 60px 20px;
   max-width: 800px;
