@@ -231,6 +231,15 @@ nav a:hover {
   left: 10px; 
   width: 50%;
 }
+q{
+  color:#e933c1;
+  font-size:28px ;
+   position: absolute;
+  left: 10px; 
+  width: 50%;
+   top: 350px;
+
+  
 
 .section-title {
   text-align: center;
@@ -454,6 +463,7 @@ nav a:hover {
   line-height: 1.6;
 }
 .project-box ul li{
+  list-style-type: disc;
   padding-left: 20px;
   color:white;
 }
