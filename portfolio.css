@@ -237,8 +237,8 @@ q{
    position: absolute;
   left: 10px; 
   width: 50%;
-   top: 350px;
-
+   top: 390px;
+}
   
 
 .section-title {
@@ -461,11 +461,6 @@ q{
   padding-left: 20px;
   color: #e4dee2;
   line-height: 1.6;
-}
-.project-box ul li{
-  list-style-type: disc;
-  padding-left: 20px;
-  color:white;
 }
 .timeline-section {
   padding: 60px 20px;
