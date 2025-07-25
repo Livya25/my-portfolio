@@ -89,6 +89,7 @@ nav a:hover {
   align-items: center;
     justify-content: center;
     text-align: center;
+  top:230px;
 
 }
 .center p{
@@ -96,12 +97,13 @@ nav a:hover {
   align-items: center;
     justify-content: center;
     text-align: center;
+  top:230px;
 
 }
 .photo-container {
     position: relative;
     right: -90px; 
-    top: 16%;
+    top: 230px;
 }
 
     .oval-photo {
