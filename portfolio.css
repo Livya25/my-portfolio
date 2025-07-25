@@ -76,7 +76,7 @@ nav a:hover {
   color:yellow;
 }
 .center{
-    color:rgb(64, 184, 64);
+    color:white
     display: flex;
     flex-direction: column;
     align-items: center;
