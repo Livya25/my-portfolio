@@ -76,7 +76,6 @@ nav a:hover {
   color:yellow;
 }
 .center{
-    background: linear-gradient(135deg, #1f005c, #5b0060, #870160);
     color:rgb(64, 184, 64);
     display: flex;
     flex-direction: column;
@@ -87,9 +86,6 @@ nav a:hover {
 
 .center span{
     color:white;
-}
-.box{
-    background: linear-gradient(135deg, #1f005c, #5b0060, #870160);
 }
 .photo-container {
     position: relative;
